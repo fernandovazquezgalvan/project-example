@@ -12,6 +12,7 @@ const config = {
   ],
   rules: {
     "@typescript-eslint/array-type": "off",
+    "@typescript-eslint/no-unsafe-call": "warn",
     "@typescript-eslint/consistent-type-definitions": "off",
     "@typescript-eslint/consistent-type-imports": [
       "warn",
